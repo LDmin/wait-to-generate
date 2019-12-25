@@ -1,0 +1,21 @@
+{
+  "name": "wait-to-generate",
+  "version": "1.0.1",
+  "description": "Wait value is true",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "ludongmin",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {},
+  "keywords": [
+    "wait",
+    "value",
+    "generate",
+    "等待值生成"
+  ]
+}
