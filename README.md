@@ -2,6 +2,7 @@
 
 等待值的生成，比如等待dom的生成之后取到值，再执行后续代码。
 Wait for the generation of values, such as waiting for dom generation to fetch the values before executing the following code.
+git: https://github.com/LDmin/wait-to-generate
 
 ## Getting Started 使用指南
 
