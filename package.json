@@ -1,6 +1,6 @@
 {
   "name": "wait-to-generate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wait value is true",
   "main": "dist/index.js",
   "scripts": {
