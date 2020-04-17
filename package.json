@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "description": "Wait value is true",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
